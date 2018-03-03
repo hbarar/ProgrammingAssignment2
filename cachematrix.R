@@ -41,7 +41,6 @@ cacheSolve <- function(x, ...) {
        
 }
 
-
 #--------------   Define the Result Function  ------------
 result<-function(x){
 L<-makeCacheMatrix(x)
