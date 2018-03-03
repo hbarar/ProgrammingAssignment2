@@ -1,8 +1,9 @@
 
 # Three different matrixes were added at the end of the code to check the validity of the code
-# for finding the inverse of each matrix (B) please remove the (#) and then run the code 
+# for finding the inverse of each matrix (B) please remove the (#) and then run the code or
+# you can add your matrix .
 
-# Also a nefunction result were added which includes both of the "makeCacheMatrix & cacheSolve" functions
+# Also a new function result were added which includes both of the "makeCacheMatrix & cacheSolve" functions
 # Therefore by calling result(B) the inverse matrix will be given at output .
 #--------------------------------------------------------------------------------
 # This function creates a special "matrix" object that can cache its inverse
